@@ -1,0 +1,5 @@
+{
+    "devmode":"debug",
+    "serverPortHTTPS":"8000",
+    "serverPortHTTP":"3000"
+}
